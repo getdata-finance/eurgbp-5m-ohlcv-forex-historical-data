@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `5m` sample updated in sync
 
-> **Sample on GitHub** · `EURGBP_5m.csv` (11,089 rows, `2026-07-09` -> `2026-09-02`, 1.12 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eurgbp)** — **1,064,790** `5m` rows (full `1m`: 5,322,882), **11 timeframes**, `2012-05-23` -> `2026-09-02`.
+> **Sample on GitHub** · `EURGBP_5m.csv` (11,088 rows, `2026-07-09` -> `2026-09-02`, 1.12 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/eurgbp)** — **1,064,790** `5m` rows (full `1m`: 5,322,800), **11 timeframes**, `2012-05-23` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Euro / British Pound · Forex | Euro / British Pound · Forex |
 | Timeframes | `5m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 5m rows | 11,089 | **1,064,790** |
+| 5m rows | 11,088 | **1,064,790** |
 | Size | 1.12 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/eurgbp) |
 | Period | `2026-07-09` -> `2026-09-02` | `2012-05-23` -> `2026-09-02` |
 | File | `EURGBP_5m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/eurgbp) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`EURGBP_5m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T14:00:00+00:00 | 0.84948 | 0.84952 | 0.84936 | 0.84946 | 948 |
 | 2026-07-09T14:05:00+00:00 | 0.84946 | 0.84955 | 0.84934 | 0.84945 | 1269 |
 | 2026-07-09T14:10:00+00:00 | 0.84945 | 0.84965 | 0.84943 | 0.8496 | 902 |
 | 2026-07-09T14:15:00+00:00 | 0.8496 | 0.84974 | 0.8496 | 0.84962 | 1004 |
 | 2026-07-09T14:20:00+00:00 | 0.84962 | 0.84969 | 0.84947 | 0.84949 | 853 |
+| 2026-07-09T14:25:00+00:00 | 0.84949 | 0.84953 | 0.84944 | 0.84948 | 547 |
 
 **Last rows**
 
